@@ -1,6 +1,6 @@
 # Game
 simple descktop game application. java was used to develop this game. java is required to run this game
-## several view of the game
+## Several view of the game
 ![1](https://user-images.githubusercontent.com/43854731/52765642-b8f09b00-304a-11e9-90fe-bfe9747bfafe.PNG)
 
 ![2](https://user-images.githubusercontent.com/43854731/52765648-bb52f500-304a-11e9-9514-35d930561b4f.PNG)
